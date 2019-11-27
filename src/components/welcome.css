@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Righteous&display=swap');
+ h1 {
+   text-align: center;
+   font-family: 'Righteous', cursive;
+   font-weight: 3.3em;
+ }
+.tvButtons {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+div[class*="channel"] {
+  width: 20%;
+  margin: auto;
+}
+
+div[class*="channel"] button {
+  font-family: 'Righteous', cursive;
+  border-radius: 5px;
+  padding:5px;
+  font-size: 1.8em;
+}
+
+.liveTV {
+  width: 40%;
+  margin: auto;
+  min-height: 200px;
+  margin-top: 5%;
+}
+
+.liveTV img {
+  width: 100%;
+  height: 100%;
+}
