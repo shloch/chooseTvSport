@@ -12,6 +12,6 @@ You will also see any lint errors in the console.
 
 
 ## screenshots
-![alt text](https://github.com/Shimele/Book-store-design/blob/master/screenshot.jpg)
+![alt text](https://github.com/shloch/chooseTvSport/blob/master/screenshot1.png)
 
-![alt text](https://github.com/Shimele/Book-store-design/blob/master/screenshot.jpg)
+![alt text](https://github.com/shloch/chooseTvSport/blob/master/screenshot2.png)
