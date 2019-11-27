@@ -1,6 +1,6 @@
 # Choose TV sport
 
-simple react + js game to choose sport. Onclick on football, ball appears, onclick on baseball, baseball appears.
+simple react + js game to choose sport. Onclick on football, Football appears, onclick on baseball, baseball appears.
 
 ### `yarn start`
 
